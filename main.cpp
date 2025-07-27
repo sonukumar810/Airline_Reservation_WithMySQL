@@ -3,6 +3,7 @@
 #include <mysqld_error.h>
 #include <windows.h>
 #include <sstream>
+
 using namespace std;
 
 const char* HOST = "localhost";
