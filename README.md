@@ -23,6 +23,17 @@ An object-oriented airline reservation system built with C++ and MySQL for manag
 3. **Booking Process:** Users select a flight and available seat to book; the data is updated in real-time.
 4. **Validation:** The system validates all input and checks for seat availability before confirming bookings.
 
+   
+## demo
+
+<img width="1281" height="576" alt="image" src="https://github.com/user-attachments/assets/91953bf4-9ad8-4600-8d22-095bb406b8dd" />
+
+<img width="1097" height="585" alt="image" src="https://github.com/user-attachments/assets/feebd178-b0e8-438d-9cec-05d191fcbfcc" />
+
+
+<img width="1138" height="574" alt="image" src="https://github.com/user-attachments/assets/5a2bee46-f0c4-473c-a894-83573bc2ffb3" />
+
+
 ## Getting Started
 
 1. Clone the repository
